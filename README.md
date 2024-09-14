@@ -9,3 +9,6 @@ This is my first site with a makeup blog, made with HTML, CSS and JavaScript, fo
 * the implementation of different functions in JavaScript
 * creating a navbar, displaying photos, creating a form
 * making a site responsive
+
+
+https://github.com/user-attachments/assets/372bd751-2568-4973-8282-ba71bf9bebaa
