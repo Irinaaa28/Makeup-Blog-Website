@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Aboneaza-te la newsletter </title>
+    <link rel="stylesheet" href="style.css">      
+</head>
+<body>
+    <nav class="navbar">
+        <div class="navbar_container">
+            <a href="index.html" id="navbar_logo">Makeup World - blog despre makeup</a>
+            <div class="navbar_toggle" id="mobile-menu">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+            <ul class="navbar_meniu">
+                <li class="navbar_item">
+                    <a href="pagina1.html" class="navbar_links">Despre pagina mea</a>
+                </li>
+                <li class="navbar_item">
+                    <a href="pagina2.html" class="navbar_links">Istoria machiajului</a>
+                </li>
+                <li class="navbar_item">
+                    <a href="pagina3.html" class="navbar_links">Branduri</a>
+                </li>
+                <li class="navbar_item">
+                    <a href="pagina4.html" class="navbar_links">Magazine online</a>
+                </li>
+                <li class="navbar_btn">
+                    <a href="pagina5.html" class="button">Aboneaza-te la newsletter</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="main">
+        <div class="main_container">
+            <div class="main_content">
+                <h1 title="Aboneaza-te la newsletter">Aboneaza-te la newsletter</h1>
+                <p>Nu uita sa te abonezi la newsletter pentru a fi la curent cu toate update-urile acestui blog! <3</p>
+                <br>
+                <form id = "form" class = "form"> 
+                    <div>
+                        <label for="email">Introdu adresa ta de email:</label>
+                        <input type="text" id="email" placeholder="you@example.com"/>
+                        <span id = "email_error" style = "color:red"></span>
+                    </div>
+                    <p>De asemenea, as aprecia daca ai completa acest formular, unde poti lasa impresia ta despre pagina mea si recomandari pentru imbunatatirea site-ului.</p>
+                    <br>
+                    <div>
+                        <label for="name">Nume:</label>
+                        <input type="text" id="name" placeholder="nume"/>
+                        <span id = "name_error" style = "color: red"></span>
+                    </div>
+                        <br><br>
+                    <div>
+                        <label for="age">Vârstă:</label>
+                        <input type="age" id="age" name="age" min="1" max="120" placeholder="ex: 20" >
+                        <span id = "age_error" style = "color: red" ></span>
+                    </div>
+                        <br><br>
+                    <div>
+                        <label for="rating">Ratingul paginii:</label>
+                        <input type="range" id="rating" name="rating" min="1" max="5">
+                    </div>
+                        <br><br>
+                    <div>
+                        <label for = "gender">Gen:</label>
+                        <input type="radio" id="male" name="gender" value="male">
+                        <label for="male">Masculin</label>
+                        <input type="radio" id="female" name="gender" value="female">
+                        <label for="female">Feminin</label>
+                        <span id = "gender_error" style = "color: red"></span>
+                    </div>
+                        <br><br>
+                    <div>
+                        <label for="comments">Lasa un comentariu:</label><br>
+                        <textarea id="comments" name="comments" rows="4" cols="50"></textarea>
+                    </div>
+                    <br><br>
+                        <button type="submit" id="submit_form">Trimite</button>
+                </form>
+            </div>
+                <div class="main_img-container"> 
+                    <img src="images/pic2.jpg" alt="pic" id="main_img1" height = 550px>
+                </div> 
+        </div>
+    </div>
+    <script src="app2.js"></script>
+</body>
+</html>
