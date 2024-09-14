@@ -12,7 +12,7 @@ This is my first site with a makeup blog, made with HTML, CSS and JavaScript, fo
 
 ## How it looks like
 
-In the first video, there is the main page of my website. \
+In the first video, there is the main page of my website. 
 
 The current date appears after 5 seconds from opening the page and changes its color randomly every second. The "Aboneaza-te la newsletter" button changes its color, too, and the "Sa incepem" button changes its color right after putting the cursor on it.
 
