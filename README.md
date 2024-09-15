@@ -27,3 +27,5 @@ In the next video, there are some popular makeup stores displayed in a specific 
 https://github.com/user-attachments/assets/5dda9239-3a5b-49dc-8019-7e4d232c777d
 
 Next up, there is a form in the video for subscribing to newsletter. If some data is not completed, a red text is shown for warning people to complete them.
+
+https://github.com/user-attachments/assets/446b2f5d-2670-4742-b690-e1dffb41b139
