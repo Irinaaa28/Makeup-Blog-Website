@@ -23,3 +23,7 @@ In the following video, I made a dropdown menu for classifying brands in differe
 https://github.com/user-attachments/assets/b63e3f93-d6fb-45a8-8378-ced91355e271
 
 In the next video, there are some popular makeup stores displayed in a specific page. As shown in the video, when a photo is clicked once, it appears again in the bottom of the page and if the same photo is clicked one more time, its clone disappears.
+
+https://github.com/user-attachments/assets/5dda9239-3a5b-49dc-8019-7e4d232c777d
+
+Next up, there is a form in the video for subscribing to newsletter. If some data is not completed, a red text is shown for warning people to complete them.
