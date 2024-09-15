@@ -19,3 +19,7 @@ The current date appears after 5 seconds from opening the page and changes its c
 https://github.com/user-attachments/assets/372bd751-2568-4973-8282-ba71bf9bebaa
 
 In the following video, I made a dropdown menu for classifying brands in different categories.
+
+https://github.com/user-attachments/assets/b63e3f93-d6fb-45a8-8378-ced91355e271
+
+In the next video, there are some popular makeup stores displayed in a specific page. As shown in the video, when a photo is clicked once, it appears again in the bottom of the page and if the same photo is clicked one more time, its clone disappears.
