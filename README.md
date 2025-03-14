@@ -1,4 +1,4 @@
-# Website-Project
+# Makeup Blog Website
 
 ## About
 
